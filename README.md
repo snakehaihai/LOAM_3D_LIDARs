@@ -1,5 +1,4 @@
-# LOAM_OUSTER64
-
+# LOAM fpr general 3D lidar
 Added suppport for OUSTER 16Gen1  64Gen1  128Gen1  64Gen2  LIDARs
 
 
