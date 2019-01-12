@@ -54,7 +54,12 @@ Also Oyster IMU is in fucked up format at the moment, so dont use it. Other samp
 
 
 # Acknowledgement
-[Quantifying Aerial LiDAR Accuracy of LOAM for Civil Engineering Applications.](https://ceen.et.byu.edu/sites/default/files/snrprojects/wolfe_derek.pdf) Derek Anthony Wolfe
-
+@conference{Zhang-2014-7903,
+author = {Ji Zhang and Sanjiv Singh},
+title = {LOAM: Lidar Odometry and Mapping in Real-time},
+booktitle = {Robotics: Science and Systems Conference},
+year = {2014},
+month = {July},
+}
 [ROS & Loam_velodyne](https://ishiguro440.wordpress.com/2016/04/05/%E5%82%99%E5%BF%98%E9%8C%B2%E3%80%80ros-loam_velodyne/) 
 
