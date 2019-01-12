@@ -10,11 +10,13 @@ https://www.youtube.com/watch?v=lttLV0zQ2BM
 
 
 # Prerequisite
-Do not use ROS version of PCL as it will fail for sure!!!
+Do not use ROS version of PCL as it end up with seg fault
 
-Download PCL and install separately
+Download PCL and install separately. mkdir build && make
 
 Change the link in the cmakelist to your build 
+
+Modifiy SET("PCL_DIR" "XXXXX" to your directory. Sample is given inside
 
 
 #Bag download
@@ -29,7 +31,7 @@ http://data.ouster.io/sample-data-2018-08-29/index.html
 
 `git clone https://github.com/ouster-lidar/ouster_example.git `  //for convert packet to pointcloud
 
-Modifiy SET("PCL_DIR" "XXXXX" to your directory. Sample is given inside
+
 
 `$ cd ~/catkin_ws`
 
