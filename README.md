@@ -1,6 +1,6 @@
 # LOAM_OUSTER64
 
-Added suppport for OUSTER 16Gen1  64Gen1  128Gen1  64Gen2
+Added suppport for OUSTER 16Gen1  64Gen1  128Gen1  64Gen2  LIDARs
 
 
 #Video
