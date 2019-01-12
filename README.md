@@ -6,7 +6,7 @@ Added suppport for OUSTER 16Gen1  64Gen1  128Gen1  64Gen2  LIDARs
 #Video
 https://www.youtube.com/watch?v=lttLV0zQ2BM
 
-![alt text](https://github.com/snakehaihai/LOAM_with_3D_LIDAR_support/blob/master/loamwithouster64.png)
+![alt text](https://github.com/snakehaihai/LOAM_3D_LIDARs/blob/master/loamwithouster64.png)
 
 
 # Prerequisite
