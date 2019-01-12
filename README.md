@@ -5,7 +5,7 @@ Added additional code for running with new OUSTER64 LIDAR
 #Video
 https://www.youtube.com/watch?v=lttLV0zQ2BM
 
-![alt text](https://github.com/snakehaihai/LOAM_OUSTER64/blob/master/loamwithouster64.png)
+![alt text](https://github.com/snakehaihai/LOAM_with_3D_LIDAR_support/blob/master/loamwithouster64.png)
 
 
 # Prerequisite
