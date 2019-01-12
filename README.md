@@ -29,6 +29,8 @@ http://data.ouster.io/sample-data-2018-08-29/index.html
 
 `git clone https://github.com/ouster-lidar/ouster_example.git `  //for convert packet to pointcloud
 
+Modifiy SET("PCL_DIR" "XXXXX" to your directory. Sample is given inside
+
 `$ cd ~/catkin_ws`
 
 `$ source ~/catkin_ws/devel/setup.bash`
