@@ -1,6 +1,7 @@
 # LOAM_OUSTER64
 
-Added additional code for running with new OUSTER64 LIDAR
+Added suppport for OUSTER 16Gen1  64Gen1  128Gen1  64Gen2
+
 
 #Video
 https://www.youtube.com/watch?v=lttLV0zQ2BM
