@@ -1,5 +1,6 @@
-# LOAM fpr general 3D lidar
+# Idiot proof method for running LOAM with a general 3D lidar
 Added suppport for OUSTER 16Gen1  64Gen1  128Gen1  64Gen2  LIDARs
+It should also work with original velodyne series.
 
 
 #Video
@@ -17,6 +18,9 @@ Change the link in the cmakelist to your build
 
 Modifiy SET("PCL_DIR" "XXXXX" to your directory. Sample is given inside
 
+LIDAR selection options are 
+-- options:  OS-64-gen1 OS-64-gen2 OS-128-gen1 VLP-16  HDL-32  HDL-64E --
+
 
 #Bag download
 http://data.ouster.io/sample-data-2018-08-29/index.html
@@ -30,7 +34,8 @@ http://data.ouster.io/sample-data-2018-08-29/index.html
 
 `git clone https://github.com/ouster-lidar/ouster_example.git `  //for convert packet to pointcloud
 
-
+Build PCL 
+Modifiy SET("PCL_DIR" "XXXXX" to your directory. 
 
 `$ cd ~/catkin_ws`
 
@@ -60,5 +65,7 @@ booktitle = {Robotics: Science and Systems Conference},
 year = {2014},
 month = {July},
 }
+
+
 [ROS & Loam_velodyne](https://ishiguro440.wordpress.com/2016/04/05/%E5%82%99%E5%BF%98%E9%8C%B2%E3%80%80ros-loam_velodyne/) 
 
