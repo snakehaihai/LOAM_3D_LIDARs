@@ -1,4 +1,4 @@
-# Idiot proof method for running LOAM with a general 3D lidar
+# Idiot proof package for running LOAM with a general 3D lidar
 Added suppport for OUSTER 16Gen1  64Gen1  128Gen1  64Gen2  LIDARs
 It should also work with original velodyne series.
 
